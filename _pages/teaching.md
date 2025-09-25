@@ -16,21 +16,14 @@ The courses I have studied include:
 - New Media User Research (Core Course): Scored 93/100
 - Data Journalism (Core Course): Scored 90/100
 
-## Academic Writing
+## Course Practice
 
-I am planning to teach a undergraduate course based on Professor Liu Junqiang's book titled The Craft of Writing (《写作是门手艺》). [Github Repo](https://github.com/SocratesAcademy/craft). 
-- Here is the [Jupyter Notebook](https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true) and [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb#/). 
-- I find the Essay Writing Guide written by Jordan B Peterson is very useful. I convert it into slides and add some annotations. [The Power of Writing: Ten Steps of Essay Writing](https://computational-communication.com/workshop/notebook/Essay%20Writing%20Guide.slides.html#/). 
-- In addition, I highly recommend Howard Becker's book **Writing for Social Scientists** ([Notebook](https://nbviewer.org/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb) & [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb#/)). 
-- Similarly, I like Anthony Miles's introduction to [A Taxonomy of Research Gaps](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/WritingResearchGaps.ipynb#/).
-- Yet my favorite book on academic writing is Paul J. Silva's **How to Write a Lot: A Practical Guide to Productive Academic Writing** ([Slides](https://socratesacademy.github.io/craft/how-to-write-a-lot-2023.slides.html#/)). 
+- Public Opinion Report: "Analysis of Public Opinion on the Sudden Flash Flood in Pengzhou River, Sichuan"(This public opinion report conducts an analysis of this social incident from four aspects: public opinion overview, media attention analysis, netizen sentiment analysis, and public opinion commentary.)
+- Data Journalism Video: "Invisible Shackles, Visible Women"(It observes the changes in women's career development from two dimensions: the synchronic dimension and the diachronic dimension.) 
 
-## Causal Inference
+## Campus Experience
 
-I finished reading the book [「原因と結果」の経済学―――データから真実を見抜く思考法](https://www.amazon.co.jp/%E3%80%8C%E5%8E%9F%E5%9B%A0%E3%81%A8%E7%B5%90%E6%9E%9C%E3%80%8D%E3%81%AE%E7%B5%8C%E6%B8%88%E5%AD%A6%E2%80%95%E2%80%95%E2%80%95%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%9C%9F%E5%AE%9F%E3%82%92%E8%A6%8B%E6%8A%9C%E3%81%8F%E6%80%9D%E8%80%83%E6%B3%95-%E4%B8%AD%E5%AE%A4%E7%89%A7%E5%AD%90/dp/447803947X) and I think it is very useful as the textbook for the class of Causal Inference 101. Check the
-[Slides](https://nbviewer.org/format/slides/github/socrateslab/causal101/blob/main/causal101.ipynb#/) and [Notebook](https://nbviewer.org/github/socrateslab/causal101/blob/main/causal101.ipynb). 
-- I am co-organizing the Causal Inference 101 course with [Dr. Zhihao Ma](https://github.com/xiaoma093), check the [github repo](https://github.com/socrateslab/causal101/discussions) of **Causal Inference 101**.
-- I highly recommend the book titled [**Causal Inference for The Brave and True**](https://matheusfacure.github.io/python-causality-handbook/landing-page.html).
+Minister, Photography Department, Zhengzhou University Converged Media Journalist Troupe | 2021–2023
 
 
 ## Other Activites
