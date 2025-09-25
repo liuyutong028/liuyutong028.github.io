@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /learning/
+title: learning
 description: Kindle the fire in your heart. 
 nav: true
 nav_order: 5
@@ -9,19 +9,12 @@ nav_order: 5
 
 ## Courses
 
-I am teaching the following courses:
+The courses I have studied include:
 
-- Ph.D Course [Computational Communication Research Workshop](https://github.com/socrateslab/workshop/discussions) (2020-Now)
-- Master Course [Introduction to Computational Communication](https://github.com/chengjun/mybook/discussions) (2018-Now)
-- Undergraduate Course [Computational Social Science](https://github.com/SocratesAcademy/css/) (2020-Now)
-- MOOC Course [Digital Marketing](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
-
-{{% callout note %}} My Home Education Course [Explaining the world to kids!](https://github.com/SocratesAcademy/kids/discussions) (2021-Now) {{% /callout %}}
-
-- Undergraduate Course [Data Journalism](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-2022)
-- Undergraduate Course [Python Programming Basics For Data Science](https://github.com/socratesacademy/datascience/) (2017-2019)
-- FDU Graduate Course [Introduction to Computational Communication](https://github.com/computational-class/cjc/) (2015-2021)
-
+- Public Opinion Analysis and Assessment(Core Course): Scored 90/100
+- English News (Core Course): Scored 96/100
+- New Media User Research (Core Course): Scored 93/100
+- Data Journalism (Core Course): Scored 90/100
 
 ## Academic Writing
 
