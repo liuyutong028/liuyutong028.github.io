@@ -3,7 +3,7 @@ layout: page
 permalink: /my life/
 title: My life
 description: Go exploring
-nav: true
+nav: false
 nav_order: 1
 ---
 
