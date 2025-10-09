@@ -8,10 +8,10 @@ profile:
   image: Wechat.jpg
   image_circular: true # crops the image to make it circular
   address: 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Yu-Tong Liu is a master's student in the [School of Journalism and Communication, Nanjing University](http://jc.nju.edu.cn).  Her research interest focuses on computational communication.
