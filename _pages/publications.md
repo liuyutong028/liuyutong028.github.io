@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: Publication
-description: The only thing that I know is I know nothing!
+permalink: /my life/
+title: My life
+description: Go exploring
 nav: true
 nav_order: 1
 ---
